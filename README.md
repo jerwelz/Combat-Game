@@ -2,7 +2,7 @@
 
 A small turn-based combat game developed with Godot and C#. This project was created as a learning project to improve my understanding of object-oriented programming, C#, and game development with the Godot Engine.
 
-All graphics and music were created entirely by me, from the pixel art to the soundtrack. No AI-generated content or pre-made templates were used.
+All graphics and music were created entirely by me, from the pixel art to the soundtrack. No AI-generated content or pre-made templates were used (exept the Font).
 
 ## Features
 
@@ -50,6 +50,9 @@ You can download the latest Windows build here:
 * Custom pixel art
 
 ## Notes
+
+Font used:
+https://fontmeme.com/fonts/nintendo-nes-font/
 
 The primary goal of this project was to gain practical experience with Godot, C#, object-oriented programming, and game development.
 
