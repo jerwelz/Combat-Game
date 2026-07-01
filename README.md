@@ -25,11 +25,11 @@ All textures and the soundtrack were created by me.
 
 ### Monster Artwork
 
---- Opponent ---
+--- Player ---
 
 <img width="300" height="300" alt="player" src="https://github.com/user-attachments/assets/05182b3b-9152-4fd2-882f-1eaf1cd0a82c" />
 
---- Player ---
+--- Opponent ---
 
 <img width="300" height="300" alt="Monster" src="https://github.com/user-attachments/assets/773abaaa-8bb2-464d-b541-251764e3ce3b" />
 
