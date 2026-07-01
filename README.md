@@ -25,14 +25,17 @@ All textures and the soundtrack were created by me.
 
 ### Monster Artwork
 
-<img width="600" height="600" alt="player" src="https://github.com/user-attachments/assets/05182b3b-9152-4fd2-882f-1eaf1cd0a82c" />
+--- Opponent ---
 
+<img width="300" height="300" alt="player" src="https://github.com/user-attachments/assets/05182b3b-9152-4fd2-882f-1eaf1cd0a82c" />
 
-<img width="100" height="100" alt="Monster" src="https://github.com/user-attachments/assets/773abaaa-8bb2-464d-b541-251764e3ce3b" />
+--- Player ---
+
+<img width="300" height="300" alt="Monster" src="https://github.com/user-attachments/assets/773abaaa-8bb2-464d-b541-251764e3ce3b" />
 
 ## Button
 
-<img width="1000" height="1000" alt="button_normal" src="https://github.com/user-attachments/assets/de9d6027-050b-466f-ab9b-e62c474db7f6" />
+<img width="250" height="250" alt="button_normal" src="https://github.com/user-attachments/assets/de9d6027-050b-466f-ab9b-e62c474db7f6" />
 
 ## Download
 
