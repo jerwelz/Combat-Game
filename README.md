@@ -2,6 +2,8 @@
 
 A small turn-based combat game developed with Godot and C#. This project was created as a learning project to improve my understanding of object-oriented programming, C#, and game development with the Godot Engine.
 
+All textures and the soundtrack were created by me.
+
 ## Features
 
 * Turn-based combat system
