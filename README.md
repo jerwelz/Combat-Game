@@ -15,7 +15,7 @@ A small turn-based combat game developed with Godot and C#. This project was cre
 
 ### Gameplay
 
-<img width="800" height="446" alt="combatgamegif" src="https://github.com/user-attachments/assets/51ade421-7cf3-48ca-ad48-54eaff7d7740" />
+<img width="800" height="450" alt="combatgamegameplay" src="https://github.com/user-attachments/assets/e22aa951-ae7e-4679-bf57-4f23a5b37e6e" />
 
 ### Soundtrack
 
